@@ -1,0 +1,419 @@
+{
+  "Pedler": {
+    "wood": 40,
+    "Iron": 5,
+    "Doubloons": 1000
+  },
+  "Pegleg": {
+    "wood": 40,
+    "Iron": 5,
+    "Doubloons": 1000
+  },
+  "Lark": {
+    "wood": 40,
+    "Iron": 5,
+    "Doubloons": 1000
+  },
+  "Heron": {
+    "wood": 80,
+    "Iron": 25,
+    "Doubloons": 5000
+  },
+  "Starling": {
+    "wood": 130,
+    "Iron": 25,
+    "Doubloons": 8500
+  },
+  "Koi": {
+    "wood": 60,
+    "Iron": 15,
+    "Doubloons": 12000
+  },
+  "War Koi": {
+    "wood": 100,
+    "Iron": 20,
+    "Mortar Platform Voucher": 2
+  },
+  "Dart": {
+    "wood": 140,
+    "Iron": 30,
+    "Doubloons": 8000
+  },
+  "Pelican": {
+    "wood": 160,
+    "Iron": 35,
+    "Doubloons": 8000
+  },
+  "Bullet": {
+    "wood": 200,
+    "Iron": 40,
+    "Doubloons": 12500
+  },
+  "Tetra": {
+    "wood": 150,
+    "Iron": 40,
+    "Doubloons": 40000,
+    "Premium Tokens": 50
+  },
+  "Kestrel": {
+    "wood": 280,
+    "Iron": 60,
+    "Doubloons": 15000
+  },
+  "Pheasant": {
+    "wood": 270,
+    "Iron": 40,
+    "Doubloons": 20000
+  },
+  "Weasel": {
+    "wood": 270,
+    "Iron": 40,
+    "Doubloons": 20000
+  },
+  "Grace": {
+    "wood": 280,
+    "Iron": 45,
+    "Doubloons": 30000
+  },
+  "Raider": {
+    "wood": 250,
+    "Iron": 35,
+    "Doubloons": 24000
+  },
+  "Marlin": {
+    "wood": 340,
+    "Iron": 55,
+    "Doubloons": 26500
+  },
+  "Orca": {
+    "wood": 340,
+    "Iron": 60,
+    "Doubloons": 26000
+  },
+  "Manta": {
+    "wood": 330,
+    "Iron": 65,
+    "Doubloons": 28000
+  },
+  "Dragon": {
+    "wood": 330,
+    "Iron": 60,
+    "Doubloons": 45000,
+    "Steam Engine Parts": 2
+  },
+  "Marauder": {
+    "wood": 400,
+    "Iron": 70,
+    "Doubloons": 29000
+  },
+  "Taipan": {
+    "wood": 420,
+    "Iron": 80,
+    "Doubloons": 35000,
+    "Taipan Voucher": 1
+  },
+  "Goose": {
+    "wood": 450,
+    "Iron": 80,
+    "Doubloons": 34500
+  },
+  "Widgeon": {
+    "wood": 450,
+    "Iron": 85,
+    "Doubloons": 34000
+  },
+  "Steam Goose": {
+    "wood": 450,
+    "Doubloons": 45000,
+    "Steam Goose Voucher": 1,
+    "Steam Engine Parts": 2
+  },
+  "Beaver": {
+    "wood": 530,
+    "Iron": 80,
+    "Doubloons": 46000
+  },
+  "Otter": {
+    "wood": 550,
+    "Iron": 90,
+    "Doubloons": 44000
+  },
+  "Ibis": {
+    "wood": 800,
+    "Iron": 100,
+    "Doubloons": 100000
+  },
+  "Serpent": {
+    "wood": 540,
+    "Iron": 80,
+    "Doubloons": 45000
+  },
+  "Fox": {
+    "wood": 530,
+    "Iron": 100,
+    "Doubloons": 64000,
+    "Steam Engine Parts": 4
+  },
+  "Stiletto": {
+    "wood": 660,
+    "Iron": 120,
+    "Doubloons": 56000
+  },
+  "Cutlass": {
+    "wood": 660,
+    "Iron": 120,
+    "Doubloons": 56500
+  },
+  "Falchion": {
+    "wood": 920,
+    "Iron": 200,
+    "Doubloons": 140000
+  },
+  "Fang": {
+    "wood": 920,
+    "Iron": 200,
+    "Doubloons": 140000,
+    "Fang Voucher": 1
+  },
+  "Hook": {
+    "wood": 650,
+    "Iron": 115,
+    "Doubloons": 60000,
+    "Premium Tokens": 500
+  },
+  "Phoenix": {
+    "wood": 550,
+    "Iron": 600,
+    "Doubloons": 75000,
+    "Steam Engine Parts": 4
+  },
+  "Shark": {
+    "wood": 700,
+    "Iron": 120,
+    "Doubloons": 90000
+  },
+  "Wisp": {
+    "wood": 700,
+    "Iron": 120,
+    "Doubloons": 95000
+  },
+  "Combat Log": {
+    "wood": 720,
+    "Iron": 50,
+    "Mark Of Nahr": 1
+  },
+  "Tyrant": {
+    "wood": 650,
+    "Iron": 130,
+    "Doubloons": 70000
+  },
+  "Corsair": {
+    "wood": 900,
+    "Iron": 180,
+    "Doubloons": 180000
+  },
+  "Mastiff": {
+    "wood": 920,
+    "Iron": 240,
+    "Doubloons": 88000
+  },
+  "Grouse (Shame On You)": {
+    "wood": 940,
+    "Iron": 240,
+    "Doubloons": 100000
+  },
+  "Chimera": {
+    "wood": 1000,
+    "Iron": 250,
+    "Doubloons": 225000
+  },
+  "Prometheus": {
+    "wood": 1400,
+    "Iron": 380,
+    "Doubloons": 600000,
+    "Steam Engine Parts": 5
+  },
+  "Osprey": {
+    "wood": 960,
+    "Iron": 300,
+    "Doubloons": 140000
+  },
+  "Retaliator": {
+    "wood": 1020,
+    "Iron": 280,
+    "Doubloons": 140000
+  },
+  "Kirin": {
+    "wood": 1100,
+    "Iron": 200,
+    "Doubloons": 120000
+  },
+  "Mongoose": {
+    "wood": 1050,
+    "Iron": 240,
+    "Doubloons": 250000
+  },
+  "Pigeon": {
+    "wood": 1400,
+    "Iron": 280,
+    "Doubloons": 700000
+  },
+  "Mercury": {
+    "wood": 750,
+    "Iron": 1400,
+    "Doubloons": 500000,
+    "Advanced Engine": 1
+  },
+  "Poseidon": {
+    "wood": 800,
+    "Iron": 1500,
+    "Doubloons": 500000,
+    "Advanced Engine": 1
+  },
+  "Neptune": {
+    "wood": 500,
+    "Iron": 2500,
+    "Doubloons": 1000000,
+    "Advanced Engine": 1
+  },
+  "Binglehopper": {
+    "wood": 550,
+    "Iron": 2600,
+    "Doubloons": 2000000,
+    "Advanced Engine": 1
+  },
+  "Mule": {
+    "wood": 1150,
+    "Iron": 240,
+    "Doubloons": 275000
+  },
+  "Gargoyle": {
+    "wood": 1300,
+    "Iron": 280,
+    "Doubloons": 450000,
+    "Premium Tokens": 400
+  },
+  "Kraken": {
+    "wood": 1200,
+    "Iron": 260,
+    "Doubloons": 500000,
+    "Kraken Voucher": 1
+  },
+  "Brigand": {
+    "wood": 1300,
+    "Iron": 250,
+    "Doubloons": 650000,
+    "Premium Tokens": 500
+  },
+  "Sigil": {
+    "wood": 1200,
+    "Iron": 260,
+    "Doubloons": 500000,
+    "Premium Tokens": 400
+  },
+  "Concord": {
+    "wood": 1350,
+    "Iron": 280,
+    "Doubloons": 850000,
+    "Premium Tokens": 700
+  },
+  "Alliance": {
+    "wood": 1500,
+    "Iron": 300,
+    "Doubloons": 1200000,
+    "Premium Tokens": 1000
+  },
+  "Falcon": {
+    "wood": 1400,
+    "Iron": 300,
+    "Doubloons": 1200000,
+    "Premium Tokens": 950
+  },
+  "Gryphon": {
+    "wood": 1300,
+    "Iron": 320,
+    "Doubloons": 480000,
+    "Premium Tokens": 400
+  },
+  "Camel": {
+    "wood": 1350,
+    "Iron": 270,
+    "Doubloons": 650000,
+    "Premium Tokens": 200
+  },
+  "Covenant": {
+    "wood": 1800,
+    "Iron": 350,
+    "Doubloons": 1800000,
+    "Premium Tokens": 1200
+  },
+  "Komodo": {
+    "wood": 1350,
+    "Iron": 270,
+    "Doubloons": 650000,
+    "Komodo Blueprint": 1
+  },
+  "Albatross": {
+    "wood": 1350,
+    "Iron": 270,
+    "Doubloons": 650000,
+    "Premium Tokens": 200
+  },
+  "Ceres": {
+    "wood": 1600,
+    "Iron": 320,
+    "Doubloons": 2000000,
+    "Advanced Engine": 1
+  },
+  "Demeter": {
+    "wood": 1600,
+    "Iron": 320,
+    "Doubloons": 2000000,
+    "Demeter Blueprint": 1
+  },
+  "Nautilus": {
+    "wood": 500,
+    "Iron": 2500,
+    "Doubloons": 1500000,
+    "Advanced Engine": 1,
+    "Nautilus Blueprint": 1
+  },
+  "Wyvern": {
+    "wood": 1000,
+    "Iron": 800,
+    "Doubloons": 800000,
+    "Advanced Engine": 1,
+    "Wyvern Blueprint": 1
+  },
+  "Megalodon": {
+    "wood": 500,
+    "Iron": 2000,
+    "Doubloons": 750000,
+    "Advanced Engine": 1,
+    "Megalodon Blueprint": 1
+  },
+  "Kingfisher": {
+    "wood": 600,
+    "Iron": 120,
+    "Doubloons": 120000,
+    "Kingfisher Blueprint": 1
+  },
+  "John Salem Ionclad": {
+    "wood": 500,
+    "Iron": 2000,
+    "Doubloons": 750000,
+    "Advanced Engine": 1,
+    "John Salem Blueprint": 1
+  },
+  "Titan": {
+    "wood": 25,
+    "Iron": 10,
+    "Doubloons": 500,
+    "Empty Barrel": 1
+  },
+  "Mortar Platform": {
+    "wood": 100,
+    "Iron": 20,
+    "Mortar Platform Voucher": 1
+  }
+}

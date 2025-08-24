@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tradelands Ship Cost Calculator</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Ship Cost Calculator</h1>
+    <form method="POST">
+        <label for="ship">Select Ship:</label>
+        <select name="ship" required>
+            {% for ship in ships %}
+            <option value="{{ ship }}">{{ ship }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label for="wood_type">Select Wood Type:</label>
+        <select name="wood_type" required>
+            {% for material in prices %}
+            <option value="{{ material }}">{{ material }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <button type="submit">Calculate</button>
+    </form>
+
+    {% if result %}
+    <h2>{{ result }}</h2>
+    <ul>
+        {% for item, cost in breakdown.items() %}
+        <li>{{ item }} → ${{ "%.2f"|format(cost) }}</li>
+        {% endfor %}
+    </ul>
+    <p style="color: red;"><strong>{{ disclaimer }}</strong></p>
+    {% endif %}
+</body>
+</html>
